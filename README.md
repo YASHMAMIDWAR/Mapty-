@@ -7,6 +7,9 @@
 <h3> The Architecture of project </h3>
 <img src = "arch.png">
 <br><br>
+<h3> Here is a glimpse of project </h3>
+<img src = "glimpse.png">
+<br><br>
 <h3> I made this project while learning javascript from course on udemy </h3>
 
 
